@@ -42,7 +42,9 @@
     "jwtSecretKey": "MTQ1ZTM0OGEyNDcxZWFjYjU5YjNhYTI3Mjk2N2VmZGY5MThmNDA2MTM0ZmU0MjMxMzdkMjIyNWRiMGU3ODUxOTU0MGQyNjNkYmIyNmRlMWJiMjBmZTg2NjVkOWZjNmNkMGQxYWFiYWY4MDZiNDFmZTM4MDBhM2QwOTUzNTUxNGM=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1617499095000
   },
   "git-provider": "GitHub",
   "git-company": "baelze",
